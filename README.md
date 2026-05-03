@@ -4,9 +4,9 @@
 
 Projeto simples em Java desenvolvido para praticar:
 
-- Entrada de dados com `Scanner`
-- Estruturas condicionais (`if/else`)
-- Estrutura de repetição (`do while`)
+- Entrada de dados com Scanner
+- Estruturas condicionais (if/else)
+- Estrutura de repetição (do while)
 - Organização de menu interativo
 - Atualização de variáveis durante execução
 
@@ -27,9 +27,9 @@ O sistema simula a compra de um tênis em uma loja, permitindo ao usuário visua
 ## Tecnologias Utilizadas
 
 - Java
-- Classe `Scanner` para entrada de dados
+- Classe Scanner para entrada de dados
 - Estruturas condicionais
-- Estrutura de repetição `do while`
+- Estrutura de repetição do while
 
 ---
 
